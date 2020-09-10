@@ -1,0 +1,16 @@
+{
+  "name": "creative-scanner",
+  "version": "1.0.0",
+  "description": "This is a Node.js command-line utility that takes the path to the ad creative file and produces a file with the creative's image.",
+  "main": "creative-scanner.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lavieennoir/creative-scanner.git"
+  },
+  "scripts": {},
+  "author": "lavieennoir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
